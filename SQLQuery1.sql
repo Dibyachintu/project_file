@@ -1,0 +1,1 @@
+insert into dbo.Customerdata(Name,Id,Mobile_no,Address,pin_code,job_role)values('Dibya',102,63,'kainipura',1254,'SE');
